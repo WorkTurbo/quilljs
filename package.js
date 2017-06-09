@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'twa16:quilljs',
+  name: 'mgauto:quilljs',
   version: '1.2.6',
   // Brief, one-line summary of the package.
   summary: 'Quill.js version 1.2.6 for Meteor',
